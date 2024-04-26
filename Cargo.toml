@@ -1,5 +1,5 @@
 [package]
-name = "zRV64imc_emu"
+name = "z_rv64imc_emu"
 version = "0.1.0"
 edition = "2021"
 
